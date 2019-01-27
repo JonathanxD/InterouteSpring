@@ -1,0 +1,13 @@
+ext.kotlin_version = '1.2.50'
+ext.dokka_version = '0.9.16'
+
+ext.license_version = '0.13.1'
+ext.shadow_version = '1.2.4'
+
+ext.kores_version = '4.0.0.50-beta'
+ext.kores_bytecode_version = '4.0.0.36-beta-bytecode'
+ext.iutils_version = '4.16.3'
+ext.interoute_version = '1.1.4'
+ext.spring_dependency_manager_version = '1.0.6.RELEASE'
+
+ext.spring_version = '2.1.0.M2'
